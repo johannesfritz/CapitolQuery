@@ -1,5 +1,4 @@
 pandas
-os
 urllib
 selenium
 time
