@@ -1,10 +1,2 @@
 pandas
-urllib
 selenium
-time
-re
-IPython.display
-sys
-json
-numpy
-settings
